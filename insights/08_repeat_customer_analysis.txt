@@ -1,0 +1,19 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Repeat Customer Analysis
+
+KEY FINDINGS:
+1. Total unique customers: 96,096.
+2. Repeat customers: 2,997.
+3. Repeat customer rate: 3.12%.
+4. Approximately 96.88% of customers placed only one order.
+
+BUSINESS INTERPRETATION:
+The repeat customer rate is relatively low.
+The business can improve customer retention through
+loyalty programs, personalized offers, and follow-up
+marketing campaigns.
+
+NOTE:
+Repeat purchases are measured within the available
+dataset period.

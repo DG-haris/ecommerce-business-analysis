@@ -1,0 +1,28 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Product Category Ranking
+
+KEY FINDINGS:
+1. Beauty & Health (beleza_saude) ranked first with R$1,258,681.34 in revenue.
+2. Watches & Gifts (relogios_presentes) ranked second with R$1,205,005.68.
+3. Bed, Bath & Table (cama_mesa_banho) ranked third with R$1,036,988.68.
+4. Bed, Bath & Table recorded the highest item sales volume with 11,115 items sold.
+5. Insurance & Services (seguros_e_servicos) ranked last with R$283.29 in revenue.
+6. Beauty & Health generated the highest revenue despite selling fewer items than Bed, Bath & Table.
+7. One category has missing category information, accounting for 1,603 items and R$179,535.28 in revenue.
+
+BUSINESS INTERPRETATION:
+Product category ranking helps identify the most
+valuable categories in the marketplace.
+The business can focus on high-revenue categories
+for marketing and inventory planning.
+Low-performing categories can be reviewed to
+understand customer demand and sales opportunities.
+
+NOTE:
+Categories are ranked using the RANK() window function
+based on total product revenue.
+Revenue is calculated using product prices and excludes
+freight charges.
+Missing category information is retained as a blank
+category in the original dataset.

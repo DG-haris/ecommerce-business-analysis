@@ -1,0 +1,23 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Top Selling Products by Volume
+
+KEY FINDINGS:
+1. A Furniture and Decoration product sold 527 units,
+   ranking first by sales volume.
+2. A Bed, Bath and Table product sold 488 units.
+3. Four Garden Tools products appeared in the top 10.
+4. A Computer Accessories product generated the
+   highest revenue of R$47,214.51.
+5. The highest-volume product was not the
+   highest-revenue product.
+
+BUSINESS INTERPRETATION:
+Product popularity and revenue contribution are
+different. The business should consider both metrics
+when planning inventory and promotional strategies.
+
+NOTE:
+Revenue excludes freight charges.
+Product names are not available in the products table;
+product IDs and categories are used instead.

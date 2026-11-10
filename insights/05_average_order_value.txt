@@ -1,0 +1,17 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Average Order Value (AOV)
+
+KEY FINDINGS:
+1. Total unique orders with payment records: 99,440
+2. Total payment value: R$16,008,872.12
+3. Average order value: R$160.99
+
+BUSINESS INTERPRETATION:
+Customers paid approximately R$160.99 per order
+on average. The business can use this metric to
+evaluate pricing and promotional strategies.
+
+NOTE:
+The orders table contains 99,441 orders, while the
+payments table contains 99,440 unique order IDs.

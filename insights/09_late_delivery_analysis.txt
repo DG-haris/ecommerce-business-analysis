@@ -1,0 +1,20 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Late Delivery Analysis
+
+KEY FINDINGS:
+1. Total delivered orders: 96,478.
+2. Late delivered orders: 7,826.
+3. Late delivery percentage: 8.11%.
+4. Approximately 91.89% of delivered orders
+   arrived on or before the estimated date.
+
+BUSINESS INTERPRETATION:
+Most orders were delivered within the estimated
+timeframe. However, 8.11% were delivered late.
+The business should investigate logistics and
+delivery operations to improve customer satisfaction.
+
+NOTE:
+Only delivered orders with valid actual delivery
+dates were included.

@@ -1,0 +1,22 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Freight Cost Analysis by Customer State
+
+KEY FINDINGS:
+1. Roraima (RR) recorded the highest average freight cost at R$48.59 per order.
+2. Paraíba (PB) ranked second with an average freight cost of R$48.35 per order.
+3. São Paulo (SP) recorded the lowest average freight cost at R$17.37 per order.
+4. São Paulo had the highest order volume, with 41,375 orders.
+5. Roraima had only 46 orders but recorded the highest average freight cost.
+6. Freight costs vary significantly across Brazilian states.
+
+BUSINESS INTERPRETATION:
+Shipping costs vary depending on customer location.
+Remote regions may have higher transportation costs.
+The business can optimize logistics, delivery routes,
+and shipping partnerships to reduce freight expenses.
+
+NOTE:
+Freight cost is calculated by summing item-level freight
+values for each order and then calculating the average
+freight cost per order for each customer state.

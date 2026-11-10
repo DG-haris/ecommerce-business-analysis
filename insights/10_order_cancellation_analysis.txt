@@ -1,0 +1,17 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Order Cancellation Analysis
+
+KEY FINDINGS:
+1. Total orders: 99,441.
+2. Canceled orders: 625.
+3. Cancellation rate: 0.63%.
+4. Approximately 99.37% of orders were not canceled.
+
+BUSINESS INTERPRETATION:
+The cancellation rate is relatively low.
+The business should investigate cancellation reasons
+and improve its order fulfillment process.
+
+NOTE:
+Cancellation percentage is calculated using all orders.

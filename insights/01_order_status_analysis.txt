@@ -1,0 +1,18 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Order Status Distribution
+
+Total Orders: 99,441
+Delivered Orders: 96,478
+Shipped Orders: 1,107
+Canceled Orders: 625
+Unavailable Orders: 609
+
+KEY FINDINGS:
+1. Approximately 97.02% of orders were delivered.
+2. Approximately 0.63% of orders were canceled.
+3. Approximately 0.61% of orders were unavailable.
+
+BUSINESS INTERPRETATION:
+The majority of orders were successfully delivered,
+indicating a high delivery completion rate.

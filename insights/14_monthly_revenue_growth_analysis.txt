@@ -1,0 +1,24 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Month-over-Month Revenue Growth
+
+KEY FINDINGS:
+1. November 2017 recorded the highest monthly revenue of R$1,194,882.80.
+2. January 2017 recorded the highest growth percentage of 705,751.38%, mainly because December 2016 had very low revenue.
+3. November 2017 recorded a revenue increase of R$415,204.92 compared with October 2017.
+4. November 2017 experienced a month-over-month revenue growth of 53.25%.
+5. December 2017 recorded a revenue decline of 26.49% compared with November 2017.
+6. Revenue remained relatively strong from January to August 2018, with some fluctuations.
+
+BUSINESS INTERPRETATION:
+Monthly revenue analysis helps the business understand
+sales trends and identify periods of growth and decline.
+The company can investigate successful months and plan
+marketing campaigns to improve weaker sales periods.
+
+NOTE:
+The analysis uses the LAG() window function to compare
+monthly revenue with the previous available month.
+September and October 2018 appear to be incomplete months.
+December 2016 is also a partial month, affecting the
+January 2017 growth percentage.

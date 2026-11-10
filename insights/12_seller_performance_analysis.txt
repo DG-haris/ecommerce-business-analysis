@@ -1,0 +1,19 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Seller Performance Analysis
+
+KEY FINDINGS:
+1. The top seller generated R$229,472.63 in revenue.
+2. The second-ranked seller generated R$222,776.05.
+3. The seller with the highest item volume sold 1,987 items.
+4. Eight of the top 10 sellers were located in São Paulo.
+5. The highest-revenue seller was not the highest-volume seller.
+
+BUSINESS INTERPRETATION:
+Seller performance varies by sales volume and revenue.
+The marketplace can identify high-performing sellers
+and improve seller support and business strategies.
+
+NOTE:
+Revenue is calculated using product prices and excludes
+freight charges.

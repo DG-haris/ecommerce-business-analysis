@@ -1,0 +1,17 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Top 10 Customers by Spending
+
+KEY FINDINGS:
+1. The highest-spending customer spent R$13,664.08.
+2. The second-highest-spending customer spent R$9,553.02.
+3. Most of the top 10 customers placed only one order.
+4. One customer placed 3 orders, while another placed 2.
+
+BUSINESS INTERPRETATION:
+High spending does not always indicate repeat purchasing.
+The business can identify high-value customers and develop
+loyalty programs to encourage repeat purchases.
+
+NOTE:
+Spending is calculated using payment values.

@@ -1,0 +1,18 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Sales by Customer State
+
+KEY FINDINGS:
+1. São Paulo (SP) ranked first with revenue of R$5,998,226.96.
+2. Rio de Janeiro (RJ) ranked second with R$2,144,379.69.
+3. Minas Gerais (MG) ranked third with R$1,872,257.26.
+4. São Paulo had 41,745 orders.
+5. São Paulo generated substantially more revenue than other states.
+
+BUSINESS INTERPRETATION:
+São Paulo is the strongest customer market.
+The business can prioritize marketing and customer
+retention strategies in high-performing states.
+
+NOTE:
+Revenue is calculated using payment values.

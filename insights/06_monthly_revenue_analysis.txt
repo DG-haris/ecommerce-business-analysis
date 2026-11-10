@@ -1,0 +1,21 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Monthly Revenue Analysis
+
+KEY FINDINGS:
+1. November 2017 recorded the highest revenue:
+   R$1,194,882.80.
+2. April 2018 recorded the second-highest revenue:
+   R$1,160,785.48.
+3. January 2018 revenue was R$1,115,004.18.
+4. Revenue increased significantly throughout 2017.
+5. September and October 2018 had very few orders.
+
+BUSINESS INTERPRETATION:
+The business experienced strong revenue growth during
+2017 and maintained high monthly revenue during much
+of 2018.
+
+NOTE:
+The final months have incomplete-looking activity.
+They should be treated carefully when comparing trends.

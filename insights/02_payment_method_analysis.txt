@@ -1,0 +1,14 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Payment Method Distribution
+
+KEY FINDINGS:
+1. Credit card generated the highest payment value.
+2. Boleto was the second-largest payment method.
+3. Debit card contributed a relatively small share.
+4. Three payment records had an undefined payment type.
+
+BUSINESS INTERPRETATION:
+Customers strongly preferred credit cards for purchases.
+The business could investigate opportunities to improve
+the adoption of other payment methods.

@@ -1,0 +1,18 @@
+PROJECT: Olist E-commerce Business Analysis
+
+ANALYSIS: Top 10 Product Categories by Sales
+
+KEY FINDINGS:
+1. Beauty and Health ranked first by sales revenue.
+2. Watches and Gifts ranked second.
+3. Bed, Bath and Table had the highest item sales volume.
+4. Revenue and sales volume rankings are different.
+
+BUSINESS INTERPRETATION:
+Beauty and Health is the leading category by revenue.
+Bed, Bath and Table has strong demand by sales volume.
+The business can use these findings for inventory
+planning and category-specific marketing strategies.
+
+NOTE:
+Sales revenue excludes freight charges.
